@@ -1,0 +1,20 @@
+Invalid vote: 8
+Invalid vote: 9
+
+Number of voters: 30
+Number of valid votes: 28
+Number of spoilt votes: 2
+
+Candidate       Score
+
+Anisa Sawh        6
+Carol Khan        2
+Denise Duncan     3
+Gary Owen         3
+Kamal Ramdhan     6
+Michael Ali       4
+Victor Taylor     4
+
+The winner(s)
+Anisa Sawh
+Kamal Ramdhan

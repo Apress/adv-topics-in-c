@@ -1,0 +1,6 @@
+one and one are two
+two and two are four
+three and three are six
+four and four are eight
+five and five are ten
+six and six are twelve
